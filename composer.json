@@ -14,7 +14,7 @@
         "patricktalmadge/bootstrapper": "~5.9.1",
         "cagartner/correios-consulta": "0.1.*",
         "barryvdh/laravel-snappy": "^0.3.3",
-        "fzaninotto/faker": "~1.4",
+        "fzaninotto/faker": "~1.4"
     },
     "require-dev": {
         "mockery/mockery": "0.9.*",
