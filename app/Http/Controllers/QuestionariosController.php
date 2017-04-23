@@ -9,9 +9,12 @@ class QuestionariosController extends Controller
     /**
      * Testando formulário de endereço
      */
-    public function endereco()
+    public function endereco(Request $request)
     {
-        return view('neuroiff.pacientes.formularios.endereco');
+        $results = simplexml_load_file("http://cep.republicavirtual.com.br/web_cep.php?formato=xml&cep=" . $request->get('cep'));
+
+        //return response()->json($results);
+        return view('neuroiff.pacientes.formularios.endereco', compact('results'));
     }
 
     /**
