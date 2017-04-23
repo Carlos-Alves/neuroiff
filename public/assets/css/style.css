@@ -1,0 +1,191 @@
+
+
+.logo{
+max-width: 220px;
+max-height: 80px;
+	margin-left: 81px;
+}
+
+.img-profile{	
+
+max-width: 100px;
+max-height: 50px;
+border-radius: 50px;
+
+}
+
+.menu-itens{
+	margin-top: 35px;
+}
+
+.menu-profile{
+	margin-top: 38px;
+	padding: 0px;
+
+}
+.titulo-menu{
+	font-size: 48px;
+
+}
+
+.nav-header{
+	background: #3696C0;
+	padding: 2px 0px;
+}
+
+.content{}
+
+.title{
+	font-weight: bold;
+	text-transform: uppercase;
+	font-size: 2em;
+	color: #ccc;
+}
+
+.materias{
+
+}
+
+.materia{
+	border: 1px solid #999;
+	margin: 30px auto;
+	max-width: 240px;
+	min-height: 220px;
+	position: relative;
+}
+
+.materia img{}
+
+.title-materia{
+	color: #696969;
+	font-size: 1.2em;
+	margin: 8px;
+}
+.btn-view{
+	background: #3696C0;
+	color:#FFF;
+	width: 100%;
+	text-align: center;
+	padding: 10px;
+	font-size: 1.2em;
+	margin-top: 10px;
+	position: absolute;
+	bottom: 0px;
+}
+
+
+.btn-view:hover{text-decoration: none; color: #FFF; background: #68838B;}
+
+.footer{
+	background: #5B7DE5;
+}
+
+img.logo-footer{
+
+	max-width: 70px;
+	max-height: 70px;
+
+}
+
+.copy{
+	background: #0D3349;
+	text-align: center;
+	margin: 0px;
+	padding: 5px 0px;
+	float: left;
+	width: 100%;
+
+}
+
+.copy p{
+	color: #FFF;
+	font-size: 1em;
+	margin: 0px;
+
+
+
+}
+
+.topo-grad{
+	height:auto;
+	padding: 2px 0;
+	color:#fff;
+	font-size:20px;
+	text-align:center;
+	background-color:#3696C0;
+	background-image: linear-gradient(to bottom, rgba(255,255,255,.1), rgba(255,255,255,.4) 49%, rgba(255,255,255,0) 50%, rgba(255,255,255,.4));
+	transition: all .5s;
+}
+.topo-grad:hover { background-color:#4169E1; }
+
+ul.social{
+	margin: 14px 0px 0px 0px;
+	margin-right: 20px;
+	float: right;
+}
+
+ul.social li{
+	display: inline-block;
+	padding: 0px 5px;
+}
+
+ul.social li a{
+	padding: 5px 10px;
+	font-size: .8em;
+	color: #FFF;
+}
+
+.facebook{background: #3b5998;}
+.google{background: #dd4b39;}
+.twitter{background: #00aced;}
+.linkedin{background: #007bb6;}
+.youtube{background: #bb0000;}
+
+.rodape {
+	margin: auto;
+	width: 100%;
+	bottom: 0;
+	position: fixed;
+}
+
+
+.nav-crud-pacientes{
+
+	padding: 8px;
+	height: 6px;
+	background-color: #0D3349;
+
+}
+
+.paginacao{
+
+	top: -20px;
+
+}
+.listagem{
+
+}
+
+.container1{
+
+}
+
+.pg-form{
+	width: 600px;
+	max-width: 100%;
+	margin: 40px auto;
+	min-height: 200px;
+}
+
+.btn-form{
+	background: #286090;
+	width: 100%;
+	font-size: 1.2em;
+	color: #FFF;
+	font-weight: bold;
+	border-radius: 0px;
+}
+.conteudo{
+	!important;
+	margin-bottom: 8%;
+}

@@ -1,0 +1,48 @@
+*{margin: 0px; padding: 0px; font-family: "Open Sans"}
+
+body1{
+    background-color:#71A9C1;
+    background-image: linear-gradient(to bottom, transparent 1px,rgba(255,255,255,.1), rgba(255,255,255,.4), rgba(255,255,255,0), rgba(255,255,255,.4)1px);background-size: auto 2px;
+
+}
+
+.menu-topo{
+    background-color:#71A9C1;
+}
+header{
+    background-color:#71A9C1;
+    float: left;
+    width: 100%;
+    padding: 15px;
+}
+
+.logo-menu{
+
+}
+
+.logo{
+    float: left;
+}
+
+.titulo-site{
+    margin: 5px;
+    margin-top: 5px;
+    color: #ffffff;
+    float: left;
+    font-size: 50%;
+
+
+
+}
+a.login{
+    color: #ffffff;
+    float: right;
+}
+.clear{clear: both;}
+
+
+.conteudo{
+    margin-top: 20px;
+
+}
+
